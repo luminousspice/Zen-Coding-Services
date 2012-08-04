@@ -2,7 +2,6 @@
 
 This Automator Services script allows you Zen-Coding, powerful abbreviation features for HTML, CSS coding.
 
-- Author: luminousspice, info@luminousspice.com
 - Requirements: SSSCoding.pm, Automator 2.2.4 or higher, Mac OS X 10.7 or higher
 
 ## Installation ##
