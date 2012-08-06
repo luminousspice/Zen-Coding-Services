@@ -16,7 +16,7 @@ This Automator Services script allows you Zen-Coding, powerful abbreviation feat
 
 **Otchy**, author of [SSSCoding.pm][SSSCPM]. His Perl Module implementation of Zen-Coding makes me create this workflow.
 
-**makog**, [his blog](http://d.hatena.ne.jp/makog/20110706/1309969364) show us approches to implement zencoding features for text editor "Jedit X" with AppleScript and SSSCoding.pm. This article inspired me to develop my automator services.
+**makog**, [his blog](http://d.hatena.ne.jp/makog/20110706/1309969364) shows us approches to implement zencoding features for text editor "Jedit X" with AppleScript and SSSCoding.pm. This article inspired me to develop my automator services.
 
 ## Copyright ##
 
