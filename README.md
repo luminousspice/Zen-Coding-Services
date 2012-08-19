@@ -1,6 +1,6 @@
 # Zen-Coding Automator Services for Mac OS X #
 
-This Automator Services script allows you Zen-Coding, powerful abbreviation features for HTML, CSS coding.
+This Automator Services script enalbes you to use Zen-Coding, powerful abbreviation features for HTML, CSS coding in Mac OS X environment.
 
 - Requirements: [SSSCoding.pm][SSSCPM], Automator 2.2.4 or higher, Mac OS X 10.7 or higher
 
